@@ -1,3 +1,6 @@
+![Blog-What-is-NLP](https://github.com/user-attachments/assets/d6f84345-df9c-44a5-b36a-8eec5bb8046a)
+
+
 # 🌟 Natural Language Processing (NLP) Essentials:
 
 * Welcome to your go-to NLP resource! This notebook is designed to give you a clear, hands-on introduction to Natural Language Processing — whether you're just starting out or looking to refresh your knowledge with the latest techniques.
